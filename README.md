@@ -26,3 +26,5 @@ node removeComment.js
 ## PHP Execution Instructions
 
 ## PHP Output Screenshots
+
+## Compare JavaScript and PHP programs
