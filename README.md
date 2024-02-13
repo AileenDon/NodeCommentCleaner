@@ -26,11 +26,11 @@ node removeComment.js
 ## PHP Execution Instructions
 To run the PHP version of the program using WAMP Server and accessing it via the browser:
 
-Save the test C program file in the same directory as the remove_comments.php script, or modify the path to the C program file within the script.
-Ensure WAMP Server is installed and running on your system, and PHP is configured correctly.
-Place the remove_comments.php script in the www directory or any subdirectory accessible by your WAMP Server setup.
-Open a web browser and navigate to the URL corresponding to the `remove_comments.php` script. For example, if the script is in the www directory, you can access it using a URL like `http://localhost/remove_comments.php`.
-The script will execute, removing comments from the specified C program file and displaying any output or error messages directly in the browser.
+- Save the test C program file in the same directory as the remove_comments.php script, or modify the path to the C program file within the script.
+- Ensure WAMP Server is installed and running on your system, and PHP is configured correctly.
+- Place the remove_comments.php script in the www directory or any subdirectory accessible by your WAMP Server setup.
+- Open a web browser and navigate to the URL corresponding to the `remove_comments.php` script. For example, if the script is in the www directory, you can access it using a URL like `http://localhost/remove_comments.php`.
+- The script will execute, removing comments from the specified C program file and displaying any output or error messages directly in the browser.
 
 
 
