@@ -35,6 +35,9 @@ To run the PHP version of the program using WAMP Server and accessing it via the
 
 
 ### Output Screenshots
+<img width="596" alt="image" src="https://github.com/AileenDon/removeComment/assets/158865231/226a7a81-6e5f-4a2d-8b86-a0bf2253a4b4">
+<img width="510" alt="image" src="https://github.com/AileenDon/removeComment/assets/158865231/eafe9549-ca87-43a3-816d-aeab2e882fbb">
+
 
 ## Compare JavaScript and PHP Programs
 
@@ -48,7 +51,11 @@ This section highlights the key differences in approach and testing experiences 
 
 ### PHP Implementation
 
-implement PHP summery here
+- **Regular Expressions:** The PHP implementation uses regular expressions to identify and remove both single-line (// ...) and multi-line (/* ... */) comments from the input C program. It employs preg_replace() and preg_replace_callback() functions to handle comment removal.
+
+- **Execution Environment:** The PHP script runs on the server-side, typically using web servers like Apache with PHP support. It can be accessed via web browsers from directories accessible by the server, such as the www directory in WAMP Server setups.
+
+- **Testing:** Testing the PHP script may require setup and configuration of a local server environment. While it offers error handling for nested comments, testing might involve accessing the script via a web browser to observe its behavior.
 
 ### Comparison Summary
 
