@@ -33,7 +33,7 @@ This section highlights the key differences in approach and testing experiences 
 
 ### JavaScript Implementation
 
-- **Regular Expressions**: It shows a smart use of regular expressions to catch and erase both the straightforward single-line (//) and the more complex multi-line (/_ ... _/) comments. This is done with well-thought-out regex patterns that carefully pick out these comments from the program's text, ensuring a clean sweep.
+- **Regular Expressions**: It shows a smart use of regular expressions to catch and erase both the straightforward single-line (//) and the more complex multi-line (/_ ... _/) comments. This is done with regex patterns that carefully pick out these comments from the program's text, ensuring a clean sweep.
 - **Execution Environment**: Flexible. It can be run both in the cozy confines of a web browser and the more expansive realm of a Node.js environment, making it a versatile tool in a developer's arsenal.
 - **Testing**: It's open to a structured approach using JavaScript testing frameworks for those who like to keep things orderly, or a more spontaneous test run right in the browser's console for quick checks. This dual approach to testing offers the best of both worlds, enabling rapid development and effortless debugging of both the regex logic and the overall script functionality.
 
