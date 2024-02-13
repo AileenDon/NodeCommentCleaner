@@ -18,14 +18,14 @@ Install Node.js first, then follow these steps to run:
 node removeComment.js
 ```
 
-## JavaScript Output Screenshots
+### Output Screenshots
 
 <img width="523" alt="Screenshot 2024-02-04 at 4 03 41 PM" src="https://github.com/AileenDon/removeComment/assets/120889846/1c1e112f-8307-47ea-9418-50fdb81b6773">
 <img width="365" alt="Screenshot 2024-02-04 at 4 38 28 PM" src="https://github.com/AileenDon/removeComment/assets/120889846/7e761c7d-6977-4eac-ba68-c17903bbbfb1">
 
 ## PHP Execution Instructions
 
-## PHP Output Screenshots
+### Output Screenshots
 
 ## Compare JavaScript and PHP Programs
 
